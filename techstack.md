@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 mollypi/PerfKitBenchmarker is built on the following main stack:
+
 - [OpenStack](https://www.openstack.org/) – Open Source Cloud
 - [Ruby](https://www.ruby-lang.org) – Languages
 - [Python](https://www.python.org) – Languages
@@ -26,11 +27,13 @@ mollypi/PerfKitBenchmarker is built on the following main stack:
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 mollypi/PerfKitBenchmarker is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/770/default_36e10c5d2a92f1635eac3695354ae8c4d7d5df11.jpg' alt='OpenStack'/> [OpenStack](https://www.openstack.org/) – Open Source Cloud
 - <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
@@ -55,14 +58,15 @@ mollypi/PerfKitBenchmarker is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [mollypi/PerfKitBenchmarker](https://github.com/mollypi/PerfKitBenchmarker)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|39<br/>Tools used|11/15/23 <br/>Report generated|
+|39<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -306,21 +310,21 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[absl-py](https://pypi.org/absl-py)|N/A|10/16/17|Yilei (Dolee) Yang |Apache-2.0|N/A|
-|[awscli](https://pypi.org/awscli)|v1.18.107|07/28/20|Spencer Kim |Apache-2.0|N/A|
-|[azure-storage](https://pypi.org/azure-storage)|v0.20.3|03/31/16|Noah Lavine |MIT|N/A|
-|[boto3](https://pypi.org/boto3)|N/A|11/03/21|Diego Orellana |Apache-2.0|N/A|
-|[colorama](https://pypi.org/colorama)|v0.3.7|09/23/16|ehankland |BSD-3-Clause|N/A|
-|[contextlib2](https://pypi.org/contextlib2)|v0.5.1|04/15/16|skschneider |psfrag|N/A|
-|[freezegun](https://pypi.org/freezegun)|N/A|05/30/19|deitz |Apache-2.0|N/A|
-|[google-cloud-pubsub](https://pypi.org/google-cloud-pubsub)|N/A|11/03/21|Diego Orellana |Apache-2.0|N/A|
-|[mock](https://pypi.org/mock)|v1.0.1|12/03/14|Connor McCoy |BSD-2-Clause|N/A|
-|[nose](https://pypi.org/nose)|v1.3|12/01/14|Connor McCoy |LGPL-2.1+|N/A|
-|[psutil](https://pypi.org/psutil)|v5.6.6|03/12/20|liubrandon |BSD-3-Clause|N/A|
-|[requests](https://pypi.org/requests)|v2.0.0|08/24/16|Tyler Burkhardt |Apache-2.0|[CVE-2018-18074](https://github.com/advisories/GHSA-x84v-xcm2-53pg) (High)<br/>[CVE-2014-1830](https://github.com/advisories/GHSA-652x-xj99-gmcc) (Moderate)<br/>[CVE-2014-1829](https://github.com/advisories/GHSA-cfj3-7x9c-4p3h) (Moderate)|
-|[setuptools](https://pypi.org/setuptools)|v40.3.0|12/01/14|Connor McCoy |MIT|[CVE-2022-40897](https://github.com/advisories/GHSA-r9hx-vwmv-q579) (High)|
+|[absl-py](https://pypi.org/project/absl-py)|N/A|10/16/17|Yilei (Dolee) Yang |Apache-2.0|N/A|
+|[awscli](https://pypi.org/project/awscli)|v1.18.107|07/28/20|Spencer Kim |Apache-2.0|N/A|
+|[azure-storage](https://pypi.org/project/azure-storage)|v0.20.3|03/31/16|Noah Lavine |MIT|N/A|
+|[boto3](https://pypi.org/project/boto3)|N/A|11/03/21|Diego Orellana |Apache-2.0|N/A|
+|[colorama](https://pypi.org/project/colorama)|v0.3.7|09/23/16|ehankland |BSD-3-Clause|N/A|
+|[contextlib2](https://pypi.org/project/contextlib2)|v0.5.1|04/15/16|skschneider |psfrag|N/A|
+|[freezegun](https://pypi.org/project/freezegun)|N/A|05/30/19|deitz |Apache-2.0|N/A|
+|[google-cloud-pubsub](https://pypi.org/project/google-cloud-pubsub)|N/A|11/03/21|Diego Orellana |Apache-2.0|N/A|
+|[mock](https://pypi.org/project/mock)|v1.0.1|12/03/14|Connor McCoy |BSD-2-Clause|N/A|
+|[nose](https://pypi.org/project/nose)|v1.3|12/01/14|Connor McCoy |LGPL-2.1+|N/A|
+|[psutil](https://pypi.org/project/psutil)|v5.6.6|03/12/20|liubrandon |BSD-3-Clause|N/A|
+|[requests](https://pypi.org/project/requests)|v2.0.0|08/24/16|Tyler Burkhardt |Apache-2.0|[CVE-2018-18074](https://github.com/advisories/GHSA-x84v-xcm2-53pg) (High)<br/>[CVE-2014-1830](https://github.com/advisories/GHSA-652x-xj99-gmcc) (Moderate)<br/>[CVE-2014-1829](https://github.com/advisories/GHSA-cfj3-7x9c-4p3h) (Moderate)|
+|[setuptools](https://pypi.org/project/setuptools)|v40.3.0|12/01/14|Connor McCoy |MIT|[CVE-2022-40897](https://github.com/advisories/GHSA-r9hx-vwmv-q579) (High)|
 
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
